@@ -1,1 +1,1 @@
-# Save-bite
+# SavSaveBite is a web-based food-sharing platform designed to reduce food wastage by connecting people, restaurants, hotels, and food donors with NGOs and needy people. Users can donate surplus food, and receivers can find and collect available food before it goes to waste.e-bite
